@@ -1,3 +1,4 @@
 # commclassroomOP
-# My readme
-- Awesome readme file
+# README
+Getting hands-on practice 
+Open to more suggesstions!
